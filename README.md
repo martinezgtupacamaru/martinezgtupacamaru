@@ -17,12 +17,12 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 
 | Project | Methods and focus |
 | --- | --- |
-| **[Tesla × SpaceX — Event Study & Volatility Forecasting](https://github.com/martinezgtupacamaru/tesla-spacex-event-study)** | Explore associations between SpaceX/Cursor announcements and Tesla returns; market-model abnormal returns, rolling cross-asset correlations, chronological forecasting |
-| **[Tesla × SpaceX — Monte Carlo & Jump Risk](https://github.com/martinezgtupacamaru/tesla-spacex-monte-carlo)** | European option valuation, Black–Scholes benchmarking, Monte Carlo confidence intervals and Merton jump-diffusion sensitivity scenarios |
+| **[ETF Prediction and Trading](https://github.com/martinezgtupacamaru/etf-prediction-and-trading)** | SPY five-session return forecasts using historical mean, ARMA, OLS and XGBoost; chronological evaluation, trading backtests and HAC inference |
+| **[Monte Carlo Option Pricing](https://github.com/martinezgtupacamaru/monte-carlo-pricing)** | European option pricing with Monte Carlo simulation, Black–Scholes benchmarking, antithetic variates, convergence checks and Merton jump-diffusion |
 | **[EEG Seizure Detection](https://github.com/martinezgtupacamaru/eeg-seizure-detection-ml)** | Collaborative machine-learning analysis of ~2.1 million EEG voltage observations across 23 channels; XGBoost held-out **ROC-AUC 0.969** and **macro F1 0.912** |
 | **[Consciousness Recovery Prognostics](https://github.com/martinezgtupacamaru/Consciousness-recovery-prognostic)** | Computational neuroscience research on statistical complexity, brain dynamics and recovery prediction |
 
-> **Reproducibility note:** The Tesla–SpaceX studies are newly prepared computational research projects; their live-market-data notebooks still require execution and empirical validation. The EEG results are historical observation-level results, not patient-independent clinical validation.
+> **EEG validation note:** The EEG results are historical observation-level results, not patient-independent clinical validation.
 
 ### Additional collaborative machine-learning research
 
