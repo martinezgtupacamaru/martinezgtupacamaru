@@ -2,48 +2,86 @@
 
 **Quantitative Finance · Applied Mathematics · Machine Learning · Computational Neuroscience**
 
-Canadian researcher and mathematics graduate pursuing a **Master's in Mathematics for Financial Instruments** at **Universitat Autònoma de Barcelona**. My work connects statistical modelling, stochastic processes, machine learning, and computational neuroscience.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-efrain-martinez-villar-013702258)
+[![Email](https://img.shields.io/badge/Email-Contact-555?logo=gmail&logoColor=white)](mailto:Guillermo.martinez.villar@umontreal.ca)
 
-I am interested in **quantitative research, derivatives pricing, and research-oriented trading**, with an emphasis on reproducible code, mathematical clarity, and honest out-of-sample evaluation.
+📍 **Barcelona, Spain** · 🇨🇦 **Canadian citizen** · **Open to quantitative research and trading-related opportunities**
 
-📍 Barcelona, Spain · 🇨🇦 Canadian citizen  
-✉️ [Email](mailto:Guillermo.martinez.villar@umontreal.ca)
+## About me
 
----
+I'm a researcher with experience in **computational neuroscience, statistical inference, time-series analysis, and machine learning**, now pursuing graduate studies in **mathematical finance** at the Universitat Autònoma de Barcelona. My interests include quantitative research, derivatives pricing, stochastic modelling, financial forecasting, and rigorous out-of-sample model evaluation.
 
-## Featured research and software projects
+My research has involved high-density EEG, fMRI time series, nonlinear predictive models, permutation-based statistical complexity, and uncertainty quantification. I aim to bring the same research discipline to financial modelling: **explicit assumptions, reproducible code, defensible validation, and transparent limitations**.
 
-| Project | Question / contribution | Methods |
-|:---|:---|:---|
-| **[Tesla × SpaceX: Event Study and Volatility Forecasting](https://github.com/martinezgtupacamaru/tesla-spacex-event-study)** | Did SpaceX momentum around the Cursor acquisition coincide with unusual Tesla returns? | Abnormal returns, market models, rolling correlations, chronological forecasting |
-| **[Tesla × SpaceX: Monte Carlo and Jump Risk](https://github.com/martinezgtupacamaru/tesla-spacex-monte-carlo)** | How do diffusion and hypothetical jump risks change equity-option valuations? | Black–Scholes, Monte Carlo confidence intervals, Merton jump diffusion |
-| **[EEG Seizure Detection](https://github.com/martinezgtupacamaru/eeg-seizure-detection-ml)** | Compare classifiers for seizure versus non-seizure EEG observations | Logistic regression, random forests, XGBoost; reported held-out ROC-AUC **0.9694** |
-| **[Consciousness Recovery Prognostics](https://github.com/martinezgtupacamaru/Consciousness-recovery-prognostic)** | Research on statistical complexity, anesthesia and recovery of consciousness | Computational neuroscience, prognostic modelling |
+## Selected projects
 
-**Research note:** The Tesla–SpaceX repositories contain reproducible research code, but the live-market analyses still require execution and validation. The EEG metrics come from historical project notebook outputs and do not establish patient-independent clinical performance.
+| Project | Methods and focus |
+| --- | --- |
+| **[Tesla × SpaceX — Event Study & Volatility Forecasting](https://github.com/martinezgtupacamaru/tesla-spacex-event-study)** | Explore associations between SpaceX/Cursor announcements and Tesla returns; market-model abnormal returns, rolling cross-asset correlations, chronological forecasting |
+| **[Tesla × SpaceX — Monte Carlo & Jump Risk](https://github.com/martinezgtupacamaru/tesla-spacex-monte-carlo)** | European option valuation, Black–Scholes benchmarking, Monte Carlo confidence intervals and Merton jump-diffusion sensitivity scenarios |
+| **[EEG Seizure Detection](https://github.com/martinezgtupacamaru/eeg-seizure-detection-ml)** | Collaborative machine-learning analysis of ~2.1 million EEG voltage observations across 23 channels; XGBoost held-out **ROC-AUC 0.969** and **macro F1 0.912** |
+| **[Consciousness Recovery Prognostics](https://github.com/martinezgtupacamaru/Consciousness-recovery-prognostic)** | Computational neuroscience research on statistical complexity, brain dynamics and recovery prediction |
 
-## Research interests
+> **Reproducibility note:** The Tesla–SpaceX studies are newly prepared computational research projects; their live-market-data notebooks still require execution and empirical validation. The EEG results are historical observation-level results, not patient-independent clinical validation.
 
-- **Quantitative finance:** asset returns, derivatives, financial time series, risk and numerical methods.
-- **Statistical learning:** model selection, uncertainty, validation and optimization.
-- **Stochastic processes:** simulation, diffusion models, Monte Carlo and jump risk.
-- **Computational neuroscience:** EEG, brain dynamics, complexity and consciousness.
+### Additional collaborative machine-learning research
 
-## Technical skills
-
-**Programming:** Python · R · SAS · MATLAB · SQL  
-**Tools:** NumPy · pandas · SciPy · scikit-learn · XGBoost · Jupyter  
-**Methods:** regression · time-series analysis · cross-validation · hypothesis testing · statistical inference · stochastic simulation
+- **[NHL expected-goals prediction](https://github.com/nassimwalha/IFT-6758):** Estimated shot-scoring probabilities from NHL play-by-play data. Compared logistic regression, XGBoost, random forests and neural networks; XGBoost **ROC-AUC 0.70** versus logistic-regression **0.68**.
+- **[DNA aptamer free-energy prediction](https://github.com/dereckpiche/dna_aptamers_modelling):** Modelled Gibbs free energy from DNA sequences with PyTorch MLP, LSTM and Transformer architectures; reported test MSE **0.12** for the Transformer versus **0.94** for the MLP.
 
 ## Education
 
-- **Master's in Mathematics for Financial Instruments**, Universitat Autònoma de Barcelona — *2026–2028, in progress*
-- **Major in Mathematics**, Université de Montréal — *2023–2026*
-- **MSc in Computational Medicine**, Université de Montréal — *2022–2025*
-- **BSc in Psychology (Honours)**, Université de Montréal — *2019–2022*
+| Dates | Degree | Institution |
+| --- | --- | --- |
+| **2026–2028** | **Master's in Mathematics for Financial Instruments** · Expected January 2028 | Universitat Autònoma de Barcelona |
+| **2023–2026** | Major in Mathematics · **GPA 3.70/4.30** | Université de Montréal |
+| **2022–2025** | Master's in Computational Medicine · **GPA 4.14/4.30** | Université de Montréal |
+| **2019–2022** | BSc (Honours), Psychology · **GPA 4.26/4.30** | Université de Montréal |
+
+**Relevant mathematical finance coursework:** stochastic calculus (Brownian motion, martingales, SDEs, Lévy processes), financial time series (SARIMA, GARCH), statistics and econometrics, Monte Carlo and numerical methods, derivatives pricing, portfolio optimization and risk management.
+
+**Additional mathematical training:** graduate measure theory, stochastic processes, probability, random walks, differential topology, linear algebra and mathematical statistics.
+
+## Research experience
+
+**Graduate Researcher — Computational Neuroscience (2022–2025)**  
+*Center for Advanced Research in Sleep Medicine · Supervisor: Nadia Gosselin*
+
+- Extracted permutation entropy and statistical complexity from high-density EEG time series.
+- Developed nonlinear decision-tree prognostic models from regional and paired-region features.
+- Evaluated predictive performance with **1,000 repeated stratified cross-validations**, label permutations, false-discovery-rate correction and bootstrap confidence intervals.
+- Reported a **95% bootstrap balanced-accuracy interval of 0.821–0.964** with FDR-adjusted **p < 0.001**, outperforming a clinical benchmark in the original research analysis.
+
+**Undergraduate Researcher — Neuroimaging and Sleep (2020–2022)**  
+*Center for Advanced Research in Sleep Medicine · Supervisor: Catherine Duclos*
+
+- Led a published first-author fMRI study of **94 participants** examining sleep apnea and resting-state functional connectivity.
+- Analyzed BOLD time series, Pearson correlations, Fisher z-transforms and adjusted general linear models with multiple-comparison correction.
+
+## Technical skills
+
+**Programming:** Python · R · MATLAB  
+**Scientific computing and ML:** NumPy · pandas · SciPy · scikit-learn · XGBoost · PyTorch · MNE-Python · NeuroKit2 · ordpy · Jupyter  
+**Quantitative methods:** stochastic processes · statistical inference · time-series modelling · regression · Monte Carlo simulation · derivatives valuation · numerical optimization · cross-validation · permutation tests · bootstrap confidence intervals · probability calibration
+
+## Selected publications
+
+1. **Martinez Villar, G.**, et al. (2026). *Regional statistical complexity under propofol reveals neural correlates of consciousness recovery.* **Submitted to Nature Communications** (manuscript under review; not a published article).
+2. **Martinez Villar, G.**, et al. (2023). [Altered resting-state functional connectivity patterns in late middle-aged and older adults with obstructive sleep apnea](https://doi.org/10.3389/fneur.2023.1215882). *Frontiers in Neurology*, 14, 1215882. **First author**.
+3. Gervais, C., Boucher, L. P., **Villar, G. M.**, et al. (2023). [A scoping review for building a criticality-based conceptual framework of altered states of consciousness](https://doi.org/10.3389/fnsys.2023.1085902). *Frontiers in Systems Neuroscience*, 17, 1085902.
+4. Martineau-Dussault, M. È., et al., **Martinez Villar, G. E.**, et al. (2022). [Medial temporal lobe and obstructive sleep apnea: Effect of sex, age, cognitive status and free-water](https://doi.org/10.1016/j.nicl.2022.103235). *NeuroImage: Clinical*, 36, 103235.
+5. Legault, J., et al., **Martinez Villar, G.**, et al. (2021). [Obstructive Sleep Apnea and Cognitive Decline: A Review of Potential Vulnerability and Protective Factors](https://doi.org/10.3390/brainsci11060706). *Brain Sciences*, 11(6), 706.
+
+## Research funding and awards
+
+- **FRQS Master's Research Award** — CAD **$40,000** (2024–2025)
+- **CIHR Canada Graduate Scholarship – Master's** — CAD **$27,000** (2023)
+- **Marie-Robert Neurotrauma Foundation Research Award** — CAD **$30,000** (2022–2023)
+- **Artificial Intelligence Excellence Award** — CAD **$5,000** (2025)
+- **Graduate Recruitment Award** — CAD **$5,000** (2022)
 
 ---
 
-I value **transparent assumptions, documented data provenance, reproducible experiments, and scientifically defensible conclusions**.
+**Contact:** [LinkedIn](https://www.linkedin.com/in/guillermo-efrain-martinez-villar-013702258) · [Email](mailto:Guillermo.martinez.villar@umontreal.ca)
 
-*Interested in quantitative research and trading-related opportunities.*
+*Ready to explore new possibilities.*
