@@ -9,9 +9,9 @@
 
 ## About me
 
-I'm a researcher with experience in **computational neuroscience, statistical inference, time-series analysis, and machine learning**, now pursuing graduate studies in **mathematical finance** at the Universitat Autònoma de Barcelona. My interests include quantitative research, derivatives pricing, stochastic modelling, financial forecasting, and rigorous out-of-sample model evaluation.
+I'm a researcher with experience in **computational neuroscience, statistical inference, time-series analysis and machine learning**, now pursuing graduate studies in **mathematical finance** at the Universitat Autònoma de Barcelona. My interests include quantitative research, derivatives pricing, stochastic modelling, financial forecasting, and rigorous out-of-sample model evaluation.
 
-My research has involved high-density EEG, fMRI time series, nonlinear predictive models, permutation-based statistical complexity, and uncertainty quantification. I aim to bring the same research discipline to financial modelling: **explicit assumptions, reproducible code, defensible validation, and transparent limitations**.
+My research has involved high-density EEG, fMRI time series, nonlinear predictive models, permutation-based statistical complexity, and uncertainty quantification. I aim to bring the same research discipline to financial modelling: **clear assumptions, reproducible code, rigorous validation and transparent limitations**.
 
 ## Selected projects
 
