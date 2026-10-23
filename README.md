@@ -1,6 +1,6 @@
 # Guillermo Efrain Martínez Villar
 
-**Quantitative Finance · Applied Mathematics · Machine Learning · Computational Neuroscience**
+**Quantitative Finance · Mathematics · Machine Learning · Computational Neuroscience**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-efrain-martinez-villar-013702258)
 [![Email](https://img.shields.io/badge/Email-Contact-555?logo=gmail&logoColor=white)](mailto:Guillermo.martinez.villar@umontreal.ca)
@@ -60,7 +60,7 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 
 ## Technical skills
 
-**Programming:** Python · R · MATLAB  
+**Programming:** Python · R  
 **Scientific computing and ML:** NumPy · pandas · SciPy · scikit-learn · XGBoost · PyTorch · MNE-Python · NeuroKit2 · ordpy · Jupyter  
 **Quantitative methods:** stochastic processes · statistical inference · time-series modelling · regression · Monte Carlo simulation · derivatives valuation · numerical optimization · cross-validation · permutation tests · bootstrap confidence intervals · probability calibration
 
