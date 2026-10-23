@@ -76,4 +76,4 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/guillermo-efrain-martinez-villar-013702258) · [Email](mailto:Guillermo.martinez.villar@umontreal.ca)
 
-*Ready to explore new possibilities.*
+*Ready to pursue new venues.*
