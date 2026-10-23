@@ -45,7 +45,7 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 ## Research experience
 
 **Graduate Researcher — Computational Neuroscience (2022–2025)**  
-*Center for Advanced Research in Sleep Medicine · Supervisor: Nadia Gosselin*
+*Center for Advanced Research in Sleep Medicine · Supervisor: Catherine Duclos*
 
 - Extracted permutation entropy and statistical complexity from high-density EEG time series.
 - Developed nonlinear decision-tree prognostic models from regional and paired-region features.
@@ -53,7 +53,7 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 - Reported a **95% bootstrap balanced-accuracy interval of 0.821–0.964** with FDR-adjusted **p < 0.001**, outperforming a clinical benchmark in the original research analysis.
 
 **Undergraduate Researcher — Neuroimaging and Sleep (2020–2022)**  
-*Center for Advanced Research in Sleep Medicine · Supervisor: Catherine Duclos*
+*Center for Advanced Research in Sleep Medicine · Supervisor: Nadia Gosselin*
 
 - Led a published first-author fMRI study of **94 participants** examining sleep apnea and resting-state functional connectivity.
 - Analyzed BOLD time series, Pearson correlations, Fisher z-transforms and adjusted general linear models with multiple-comparison correction.
@@ -71,14 +71,6 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 3. Gervais, C., Boucher, L. P., **Villar, G. M.**, et al. (2023). [A scoping review for building a criticality-based conceptual framework of altered states of consciousness](https://doi.org/10.3389/fnsys.2023.1085902). *Frontiers in Systems Neuroscience*, 17, 1085902.
 4. Martineau-Dussault, M. È., et al., **Martinez Villar, G. E.**, et al. (2022). [Medial temporal lobe and obstructive sleep apnea: Effect of sex, age, cognitive status and free-water](https://doi.org/10.1016/j.nicl.2022.103235). *NeuroImage: Clinical*, 36, 103235.
 5. Legault, J., et al., **Martinez Villar, G.**, et al. (2021). [Obstructive Sleep Apnea and Cognitive Decline: A Review of Potential Vulnerability and Protective Factors](https://doi.org/10.3390/brainsci11060706). *Brain Sciences*, 11(6), 706.
-
-## Research funding and awards
-
-- **FRQS Master's Research Award** — CAD **$40,000** (2024–2025)
-- **CIHR Canada Graduate Scholarship – Master's** — CAD **$27,000** (2023)
-- **Marie-Robert Neurotrauma Foundation Research Award** — CAD **$30,000** (2022–2023)
-- **Artificial Intelligence Excellence Award** — CAD **$5,000** (2025)
-- **Graduate Recruitment Award** — CAD **$5,000** (2022)
 
 ---
 
