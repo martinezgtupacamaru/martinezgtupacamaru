@@ -19,7 +19,7 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 | --- | --- |
 | **[ETF Prediction and Trading](https://github.com/martinezgtupacamaru/ETFs-prediction-trading)** | Eight-feature XGBoost forecasts of SPY five-session returns using SPY, QQQ and TLT; historical SPY/cash backtest earned **17.68% annualized net return versus 12.10% for SPY buy-and-hold** over 2022–2025 |
 | **[EEG Seizure Detection](https://github.com/martinezgtupacamaru/eeg-seizure-detection-ml)** | Collaborative machine-learning analysis of ~2.1 million EEG voltage observations across 23 channels; XGBoost held-out **ROC-AUC 0.969** and **macro F1 0.912** |
-| **[Consciousness Recovery Prognostics](https://github.com/martinezgtupacamaru/Consciousness-recovery-prognostic)** | Computational neuroscience research on statistical complexity, brain dynamics and recovery prediction |
+| **[Consciousness Recovery Prognostics](https://github.com/martinezgtupacamaru/Consciousness-recovery-prognostic)** | Regional EEG complexity under propofol was associated with consciousness recovery in a 20-patient cohort; parietal–temporal model **95% balanced-accuracy interval 0.821–0.964**, **FDR-adjusted p < 0.001** (manuscript-reported results) |
 
 ### Additional collaborative machine-learning research
 
