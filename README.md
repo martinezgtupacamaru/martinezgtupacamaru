@@ -17,7 +17,7 @@ I study complex stochastic systems, from brain dynamics to financial markets. My
 
 ### Collaborative projects
 
-- **[DNA aptamer free-energy prediction](https://github.com/dereckpiche/dna_aptamers_modelling):** PyTorch sequence models for NUPACK-generated free energies. Corrected LSTM: **held-out R² 0.631**; saved larger Transformer: **historical-evaluation R² 0.905**.
+- **[DNA aptamer free-energy prediction](https://github.com/dereckpiche/dna_aptamers_modelling):** Trained an LSTM (**held-out MSE 0.59955, R² = 0.631**) and evaluated a Transformer (**historical-evaluation MSE 0.15640, R² = 0.905**) to predict DNA folding Gibbs free energy from one million NUPACK-generated DNA sequences.
 - **[NHL expected-goals prediction](https://github.com/nassimwalha/IFT-6758):** Shot-scoring probabilities from play-by-play data. XGBoost achieved **ROC-AUC 0.70**, compared with **0.68** for logistic regression.
 
 ## Research background
