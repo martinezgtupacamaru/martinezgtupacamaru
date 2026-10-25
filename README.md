@@ -24,7 +24,7 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 ### Additional collaborative machine-learning research
 
 - **[NHL expected-goals prediction](https://github.com/nassimwalha/IFT-6758):** Estimated shot-scoring probabilities from NHL play-by-play data. Compared logistic regression, XGBoost, random forests and neural networks; XGBoost **ROC-AUC 0.70** versus logistic-regression **0.68**.
-- **[DNA aptamer free-energy prediction](https://github.com/dereckpiche/dna_aptamers_modelling):** Modelled Gibbs free energy from DNA sequences with PyTorch MLP, LSTM and Transformer architectures; reported test MSE **0.12** for the Transformer versus **0.94** for the MLP.
+- **[DNA aptamer free-energy prediction](https://github.com/dereckpiche/dna_aptamers_modelling):** Modelled NUPACK-generated Gibbs free energies from DNA sequences using PyTorch. The corrected LSTM achieved held-out **MSE 0.59955 (R² 63.09%)**; the saved larger Transformer achieved **MSE 0.15640 (R² 90.51%)** on its historical evaluation cohort.
 
 ## Education
 
