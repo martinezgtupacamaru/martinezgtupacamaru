@@ -18,7 +18,6 @@ My research has involved high-density EEG, fMRI time series, nonlinear predictiv
 | Project | Methods and focus |
 | --- | --- |
 | **[ETF Prediction and Trading](https://github.com/martinezgtupacamaru/ETFs-prediction-trading)** | Eight-feature XGBoost forecasts of SPY five-session returns using SPY, QQQ and TLT; expanding-window validation, historical-mean benchmark, trading backtests and Newey–West HAC inference |
-| **[Monte Carlo Option Pricing](https://github.com/martinezgtupacamaru/monte-carlo-pricing)** | European option pricing with Monte Carlo simulation, Black–Scholes benchmarking, antithetic variates, convergence checks and Merton jump-diffusion |
 | **[EEG Seizure Detection](https://github.com/martinezgtupacamaru/eeg-seizure-detection-ml)** | Collaborative machine-learning analysis of ~2.1 million EEG voltage observations across 23 channels; XGBoost held-out **ROC-AUC 0.969** and **macro F1 0.912** |
 | **[Consciousness Recovery Prognostics](https://github.com/martinezgtupacamaru/Consciousness-recovery-prognostic)** | Computational neuroscience research on statistical complexity, brain dynamics and recovery prediction |
 
